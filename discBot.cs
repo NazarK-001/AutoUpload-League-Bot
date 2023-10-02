@@ -24,7 +24,7 @@ namespace discBot
 
             _client.Log += Log;
 
-            string token = "MTA0OTY0NjQzNDM1OTcxNzkwOQ.GdWZqp.juXqw4bnrTYrkJYAq063bxIBbRnwEKRsE8KYSo";
+            string token = "";
 
             await _client.LoginAsync(TokenType.Bot, token);
             await _client.StartAsync();

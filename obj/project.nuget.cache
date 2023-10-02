@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GWcOudMPQ1ChnE4xbe7QjQsxMD9yEf1BCjdLSr3UcLIHCv753SKK79Dn1QWSnUp8vy7BUCKigwhNQoech+FzJQ==",
+  "dgSpecHash": "MR9gNLENXsswxw3dDpvW1l4Hd3sQ/fkFMFm/KNscRfoWBnPtN3VmVQHb5fGxxf7Taq9VIfn2jPfqwGBexzcxLQ==",
   "success": true,
-  "projectFilePath": "D:\\1.1aprograms\\other\\new-bot\\Repl-experiments\\AutoUpload-League-Bot\\AutoUpload-League-Bot.csproj",
+  "projectFilePath": "D:\\GitHub-Desktop\\files\\AutoUpload-League-Bot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nazar\\.nuget\\packages\\discord.net\\3.12.0\\discord.net.3.12.0.nupkg.sha512",
     "C:\\Users\\Nazar\\.nuget\\packages\\discord.net.commands\\3.12.0\\discord.net.commands.3.12.0.nupkg.sha512",

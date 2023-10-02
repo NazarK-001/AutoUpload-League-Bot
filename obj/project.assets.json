@@ -558,11 +558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1.1aprograms\\other\\new-bot\\Repl-experiments\\AutoUpload-League-Bot\\AutoUpload-League-Bot.csproj",
+      "projectUniqueName": "D:\\GitHub-Desktop\\files\\AutoUpload-League-Bot.csproj",
       "projectName": "AutoUpload-League-Bot",
-      "projectPath": "D:\\1.1aprograms\\other\\new-bot\\Repl-experiments\\AutoUpload-League-Bot\\AutoUpload-League-Bot.csproj",
+      "projectPath": "D:\\GitHub-Desktop\\files\\AutoUpload-League-Bot.csproj",
       "packagesPath": "C:\\Users\\Nazar\\.nuget\\packages\\",
-      "outputPath": "D:\\1.1aprograms\\other\\new-bot\\Repl-experiments\\AutoUpload-League-Bot\\obj\\",
+      "outputPath": "D:\\GitHub-Desktop\\files\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
