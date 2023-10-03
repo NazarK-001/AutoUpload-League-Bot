@@ -11,6 +11,7 @@ namespace discBot
             => new Program().MainAsync().GetAwaiter().GetResult();
 
         private DiscordSocketClient _client;
+        private HttpServer _httpServer;
         private DiscordEventHandlers _eventHandlers; // Add this field
 
         public async Task MainAsync()
@@ -31,6 +32,8 @@ namespace discBot
 
             _eventHandlers = new DiscordEventHandlers(_client); // Initialize the event handlers
 
+            _httpServer = new HttpServer();
+            _httpServer.Start();
             await Task.Delay(-1);
         }
 
